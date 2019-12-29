@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/saeb/static/css/main.d26dddbb.chunk.css",
+    "main.js": "/saeb/static/js/main.647fb2f1.chunk.js",
+    "main.js.map": "/saeb/static/js/main.647fb2f1.chunk.js.map",
+    "runtime-main.js": "/saeb/static/js/runtime-main.9390df1c.js",
+    "runtime-main.js.map": "/saeb/static/js/runtime-main.9390df1c.js.map",
+    "static/js/2.a3ccdfef.chunk.js": "/saeb/static/js/2.a3ccdfef.chunk.js",
+    "static/js/2.a3ccdfef.chunk.js.map": "/saeb/static/js/2.a3ccdfef.chunk.js.map",
+    "index.html": "/saeb/index.html",
+    "precache-manifest.ae86a9bf429a54ad59817cca6845b484.js": "/saeb/precache-manifest.ae86a9bf429a54ad59817cca6845b484.js",
+    "service-worker.js": "/saeb/service-worker.js",
+    "static/css/main.d26dddbb.chunk.css.map": "/saeb/static/css/main.d26dddbb.chunk.css.map",
+    "static/js/2.a3ccdfef.chunk.js.LICENSE": "/saeb/static/js/2.a3ccdfef.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9390df1c.js",
+    "static/js/2.a3ccdfef.chunk.js",
+    "static/css/main.d26dddbb.chunk.css",
+    "static/js/main.647fb2f1.chunk.js"
+  ]
+}
