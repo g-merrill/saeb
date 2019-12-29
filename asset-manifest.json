@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/saeb/static/css/main.d26dddbb.chunk.css",
-    "main.js": "/saeb/static/js/main.6fd60bee.chunk.js",
-    "main.js.map": "/saeb/static/js/main.6fd60bee.chunk.js.map",
+    "main.css": "/saeb/static/css/main.fe379451.chunk.css",
+    "main.js": "/saeb/static/js/main.5cf11252.chunk.js",
+    "main.js.map": "/saeb/static/js/main.5cf11252.chunk.js.map",
     "runtime-main.js": "/saeb/static/js/runtime-main.9390df1c.js",
     "runtime-main.js.map": "/saeb/static/js/runtime-main.9390df1c.js.map",
     "static/js/2.a3ccdfef.chunk.js": "/saeb/static/js/2.a3ccdfef.chunk.js",
     "static/js/2.a3ccdfef.chunk.js.map": "/saeb/static/js/2.a3ccdfef.chunk.js.map",
     "index.html": "/saeb/index.html",
-    "precache-manifest.e2cf923d0438286d3aa4c63fe9cad799.js": "/saeb/precache-manifest.e2cf923d0438286d3aa4c63fe9cad799.js",
+    "precache-manifest.00d690cb307e23e4eb9bd8f72eed41fb.js": "/saeb/precache-manifest.00d690cb307e23e4eb9bd8f72eed41fb.js",
     "service-worker.js": "/saeb/service-worker.js",
-    "static/css/main.d26dddbb.chunk.css.map": "/saeb/static/css/main.d26dddbb.chunk.css.map",
+    "static/css/main.fe379451.chunk.css.map": "/saeb/static/css/main.fe379451.chunk.css.map",
     "static/js/2.a3ccdfef.chunk.js.LICENSE": "/saeb/static/js/2.a3ccdfef.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.9390df1c.js",
     "static/js/2.a3ccdfef.chunk.js",
-    "static/css/main.d26dddbb.chunk.css",
-    "static/js/main.6fd60bee.chunk.js"
+    "static/css/main.fe379451.chunk.css",
+    "static/js/main.5cf11252.chunk.js"
   ]
 }
