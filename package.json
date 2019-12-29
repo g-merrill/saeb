@@ -35,5 +35,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://g-merrill.github.io/saeb"
+  "homepage": "https://g-merrill.github.io/saeb",
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  }
 }
