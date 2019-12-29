@@ -28,12 +28,12 @@ class App extends Component {
             <h3>Menu</h3>
           </div>
           <div className="NavLinkCtnr hidden">
-            <NavLink to='/' className='NavLink'>About</NavLink>
-            <NavLink to='/' className='NavLink'>Smoups</NavLink>
-            <NavLink to='/' className='NavLink'>Music</NavLink>
-            <NavLink to='/' className='NavLink'>Resources</NavLink>
-            <NavLink to='/' className='NavLink'>Past Speakers</NavLink>
-            <NavLink to='/' className='NavLink'>Contact</NavLink>
+            <NavLink to='/saeb' className='NavLink'>About</NavLink>
+            <NavLink to='/saeb' className='NavLink'>Smoups</NavLink>
+            <NavLink to='/saeb' className='NavLink'>Music</NavLink>
+            <NavLink to='/saeb' className='NavLink'>Resources</NavLink>
+            <NavLink to='/saeb' className='NavLink'>Past Speakers</NavLink>
+            <NavLink to='/saeb' className='NavLink'>Contact</NavLink>
           </div>
         </nav>
         <div className='content'>
