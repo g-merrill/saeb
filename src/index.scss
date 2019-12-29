@@ -1,0 +1,28 @@
+// http://meyerweb.com/eric/tools/css/reset/ 
+// v2.0 | 20110126
+// License: none (public domain)
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+// make sure to set some focus styles for accessibility
+:focus {
+  outline: 0;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+body {
+  font-family: Lato, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+p {
+  color: #666666;
+}
