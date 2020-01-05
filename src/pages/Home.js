@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './css/Home.scss';
 
 const Home = () => (
@@ -23,7 +24,7 @@ const Home = () => (
     <section className="home-smoups">
       <h2 className="section-title">Smoups</h2>
       <p className="main-text">Our name for small groups is smoups (that’s what happens when the two founders of Sunday Assembly International are comedians!).</p>
-      <p className="main-text">The <a className="main-link" href="https://sundayassemblyeastbay.org/smoups/" target="_blank" rel="noopener noreferrer">variety of smoups</a> has grown out of our members interests and ideas. So, anyone can propose a new one for just about any interest.</p>
+      <p className="main-text">The <Link className="main-link" to="/saeb/smoups">variety of smoups</Link> has grown out of our members interests and ideas. So, anyone can propose a new one for just about any interest.</p>
     </section>
     <section className="home-community-service">
       <h2 className="section-title">Community Service Events</h2>
