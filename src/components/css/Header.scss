@@ -4,4 +4,17 @@
   &:active {
     border: 1px dotted black;
   }
+  .logo {
+    max-width: 100px;
+    margin: 10px 0 0;
+  }
+  .site-title {
+    // color: rgba($color: #444444, $alpha: 1.0);
+    color: rgba($color: rgb(255, 0, 179), $alpha: 1.0);
+    margin: 20px 0 0;
+  }
+  .site-subtitle {
+    color: rgba($color: #666666, $alpha: 1.0);
+    margin: 5px 0 20px;
+  }
 }
