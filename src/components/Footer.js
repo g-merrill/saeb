@@ -2,7 +2,7 @@ import React from 'react';
 import './css/Footer.scss';
 
 const Footer = () => (
-  <footer className='footer'>
+  <footer className='Footer'>
     <section className="footer-donate">
       <h2 className="footer-title">Donate</h2>
       <p className="main-text">We depend on donations from ordinary people to make all this goodness happen.</p>

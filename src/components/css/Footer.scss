@@ -1,3 +1,30 @@
 .Footer {
-  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  section {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .footer-title {
+    text-align: left;
+    margin: 2rem 0 1rem;
+    line-height: 2rem;
+    font-weight: 400;
+    color: white;
+    border-bottom: 2px solid rgba($color: #0FBE7C, $alpha: 1.0);
+  }
+  .donate-btn {
+    padding: 5px 10px;
+    border: 2px outset rgba($color: #0FBE7C, $alpha: 1.0);
+    border-radius: 5px;
+    background: rgba($color: #0FBE7C, $alpha: 1.0);
+    color: white;
+    font-weight: bold;
+    &:active {
+      border: 2px inset rgba($color: #0FBE7C, $alpha: 1.0);
+    }
+  }
 }
