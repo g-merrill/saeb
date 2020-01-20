@@ -5,13 +5,10 @@
   flex-direction: column;
   align-items: center;
   background: rgba(58, 58, 58, 1);
-  .videoHomePage {
-    max-height: 364px;
-  }
   .content {
     display: flex;
     flex-direction: column;
-    max-width: 90%;
+    width: 90%;
     .section-title {
       margin: 1.75rem 0 0;
       text-align: left;
