@@ -13,8 +13,12 @@
   outline: 0;
 }
 
-ol, ul {
-	list-style: none;
+ul {
+  text-align: left;
+  padding: 0 0 0 15px;
+  li {
+    margin: 5px 0 0;
+  }
 }
 
 body {

@@ -3,7 +3,20 @@ import { Link } from 'react-router-dom';
 import './css/Home.scss';
 
 const Home = () => (
-  <div className='content'>
+  <div className='content Home'>
+    <video 
+      playsInline="playsinline" 
+      autoPlay="autoplay" 
+      muted="muted" 
+      loop="loop" 
+      poster="https://storage.coverr.co/posters/Cheering-Crowd" 
+      className="videoHomePage"
+    >
+      <source 
+        src="https://storage.coverr.co/videos/Cheering-Crowd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjExNDMyN0NEOTRCMUFCMTFERTE3IiwiaWF0IjoxNTc5NDg5MjYxfQ.bKHmMwnBG6gb-s36Cxw6gXhFlFNVFCAQ6GkkkNf1pSE" 
+        type="video/mp4" 
+      />
+    </video>
     <section className="home-description">
       <h2 className='section-title'>Live better, help often, wonder more!</h2>
       <p className='main-text'>Our motto reflects our core values. Sunday Assembly is a secular congregation that meets to hear great talks, sing songs, create community, and rejoice in the wonders of our world.</p>
@@ -12,11 +25,19 @@ const Home = () => (
     <hr />
     <section className="home-details">
       <h2 className='section-title'>Monthly Celebration</h2>
-      <p className="main-text">Our main event is our monthly celebration, when we Assemble on a Sunday.</p>
-      <p className="main-text">We meet on the 3rd Sunday each month at the South Berkeley Senior Center, 2939 Ellis Street, Berkeley (at Ashby Avenue).</p>
       <p className="main-text">
-        10:30-11:00am—Meet and Greet <br />
-        11:00-12:00pm—Celebration <br />
+        Our main event is our monthly celebration, when we Assemble on a Sunday.
+      </p>
+      <p className="main-text">
+        We meet on the 3rd Sunday each month at the South Berkeley Senior Center, 2939 Ellis Street, Berkeley (at Ashby Avenue).
+      </p>
+      <p className="main-text">
+        10:30-11:00am—Meet and Greet
+      </p>
+      <p className="main-text">
+        11:00-12:00pm—Celebration
+      </p>
+      <p className="main-text">
         12-1:30 pm—Potluck
       </p>
       <p className="main-text">Come for the talks, sharing, singing together, and inspiration—stay for the potluck and get to know like-minded folks!</p>
